@@ -1,0 +1,5 @@
+.spiel-lead{font-family:system-ui,sans-serif;max-width:420px;padding:1rem;border:1px solid #2a3544;border-radius:12px;background:#1a222c;color:#e8eef4}
+.spiel-lead label{display:block;font-size:.85rem;margin:.5rem 0 .2rem;color:#9aa7b5}
+.spiel-lead input,.spiel-lead textarea{width:100%;padding:.55rem .7rem;border-radius:8px;border:1px solid #2a3544;background:#0f1419;color:#e8eef4;box-sizing:border-box}
+.spiel-lead button{margin-top:.75rem;background:#3ecf8e;color:#0f1419;border:0;padding:.6rem 1rem;border-radius:8px;font-weight:700;cursor:pointer;width:100%}
+.spiel-lead .hint{font-size:.75rem;color:#9aa7b5;margin-top:.5rem}
